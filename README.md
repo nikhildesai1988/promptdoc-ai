@@ -66,7 +66,6 @@ The Gradio interface will be available at `http://localhost:7860`
 ## Architecture
 
 - **ChromaDB**: Persistent vector database for document embeddings
-- **LangChain**: Text splitting and LCEL chains for LLM interactions
 - **Gradio**: Web UI for document upload and chat interface
 - **OpenAI API**: GPT-4o for summarization and Q&A, text-embedding-3-small for embeddings
 
