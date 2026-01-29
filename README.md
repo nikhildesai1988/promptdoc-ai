@@ -18,8 +18,7 @@ promotdoc/
 ├── main.py                 # Application entry point
 ├── pyproject.toml          # Project dependencies
 ├── README.md              # This file
-├── .env                   # Environment variables (not committed)
-├── .gitignore            # Git ignore rules
+├── .env                   # Environment variables (create yours!)
 ├── ui/
 │   └── gradio_util.py    # Gradio interface definition
 └── utils/
